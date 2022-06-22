@@ -1,3 +1,5 @@
 .idea
 hello/hide-me.txt
+hide-me
 *.log
+add-me/
